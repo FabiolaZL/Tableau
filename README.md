@@ -1,5 +1,6 @@
 # Tableau
 Análisis de empleados de una empresa
+- Enlace de Tableau: https://public.tableau.com/app/profile/fabiola.zaraz.a/viz/CasoPrcticoTableau_17421185846360/Dashboard1
 
 ## En el análisis del Dashboard se identificaron los siguientes datos de los empleados
 
